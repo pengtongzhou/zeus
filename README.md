@@ -35,7 +35,7 @@ Hadoop任务的自动调度
 
 
 
-更多文档，请进入<a href="http://github.com/alibaba/zeus/wiki" target="_blank">文档首页</a> 
+更多文档，请进入<a href="https://github.com/pengtongzhou/zeus/wiki" target="_blank">文档首页</a> 
 
 
 
